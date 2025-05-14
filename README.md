@@ -41,3 +41,11 @@ This project implements **PID control** for position and velocity regulation of 
 - Reproducible process from modeling to tuning and validation
 
 ---
+
+## 📈 Results
+
+- Achieved **stable** and **responsive** control under different loads
+- Controller successfully tuned to real actuator constraints
+- Demonstrated reliable performance for both **position** and **velocity** tracking
+
+---
